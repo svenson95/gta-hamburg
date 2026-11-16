@@ -68,6 +68,8 @@ The exact protagonist, narrative, locations, and historical events have not yet 
 
 Work will be organized into small, testable tasks in Trello and implemented incrementally, with AI-assisted planning, research, and coding. The repository will gradually collect technical notes, design decisions, and other documentation as they become useful.
 
+Trello tracks tasks and progress; detailed technical and game design documentation lives in this repository. See [the task workflow](docs/workflow.md) for the working process and [AGENTS.md](AGENTS.md) for project-specific Codex instructions, including the C++ and Unreal learning approach.
+
 **Current status:** Concept / pre-production. No playable build is available yet.
 
 ## Assets and licensing
