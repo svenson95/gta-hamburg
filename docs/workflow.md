@@ -36,4 +36,4 @@ Keep player-facing text separate from gameplay logic and use localization-ready 
 
 ## Current starting point
 
-The repository currently contains the project description, Codex instructions, and this workflow. An Unreal project, builds, and playtests have not been set up yet. Future technical tasks must account for this starting point.
+The repository includes `GTAHamburg.uproject`, the base Unreal Engine 5.8.4 Third Person C++ template, and its required assets. See [the setup guide](unreal-setup.md) for development tools, build/start commands, learning notes, and the current verification record. Check that record before assuming a build or playtest has passed.

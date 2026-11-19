@@ -54,7 +54,7 @@ The project should remain playable on older gaming PCs. Current development hard
 
 - **CPU:** AMD Ryzen 5 5600X
 - **GPU:** NVIDIA GeForce GTX 1660 Ti
-- **RAM:** Not yet confirmed (estimated 8–16 GB)
+- **RAM:** 16 GB (15.93 GB physical memory reported by UnrealBuildTool)
 
 An early **1080p / 60 FPS** performance target is aspirational and must be validated with representative scenes and packaged builds. Priorities include scalable graphics settings, efficient geometry and materials, level streaming, sensible NPC density, and avoiding unnecessary high-end rendering features.
 
@@ -70,7 +70,7 @@ Work will be organized into small, testable tasks in Trello and implemented incr
 
 Trello tracks tasks and progress; detailed technical and game design documentation lives in this repository. See [the task workflow](docs/workflow.md) for the working process and [AGENTS.md](AGENTS.md) for project-specific Codex instructions, including the C++ and Unreal learning approach.
 
-**Current status:** Concept / pre-production. No playable build is available yet.
+**Current status:** Initial Unreal Engine 5.8.4 C++ project setup. The base Third Person template is included; build and playtest verification are in progress. See [setup, build, and first-run instructions](docs/unreal-setup.md).
 
 ## Assets and licensing
 
