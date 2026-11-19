@@ -1,2 +1,20 @@
 # Local Visual Studio workspace state and caches
 .vs/
+
+# Unreal-generated build products, caches, and local state
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Generated IDE projects (regenerate from GTAHamburg.uproject)
+/.vsconfig
+*.sln
+*.slnx
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+.idea/
